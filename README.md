@@ -1,6 +1,4 @@
 # Aplicação JavaEE para Gerenciamento de Academia
-# Esta é uma aplicação web simples em JavaEE para um sistema de gerenciamento de academia. A aplicação utiliza Hibernate para persistência, Primefaces 
-# como a implementação do JavaServer Faces, e PostgreSQL como banco de dados.
 
 # Recursos
 Cadastrar alunos
