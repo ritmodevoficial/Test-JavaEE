@@ -24,6 +24,7 @@ bash
 
 Copiar código
 cd Test-JavaEE
+
 5. Configure o banco de dados:
 Crie um banco de dados PostgreSQL chamado academia_db.
 Execute o dump SQL fornecido para configurar as tabelas:
