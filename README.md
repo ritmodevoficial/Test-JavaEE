@@ -19,10 +19,10 @@ Copiar código
 git clone https://github.com/ritmodevoficial/Test-JavaEE.git
 
 3. Navegue até o diretório do projeto:
-bash
 
-Copiar código
-cd Test-JavaEE
+   '''bash
+   cd Test-JavaEE
+   '''
 
 5. Configure o banco de dados:
 Crie um banco de dados PostgreSQL chamado academia_db.
