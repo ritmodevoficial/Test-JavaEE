@@ -29,7 +29,7 @@ Crie um banco de dados PostgreSQL chamado academia_db.
 Execute o dump SQL fornecido para configurar as tabelas:
 
     ```bash
-    git clone https://github.com/ritmodevoficial/Test-JavaEE.git
+    git clone https://github.com/ritmodevoficial/Dump_DB.git
     ```
 
 6. Configuração no Wildfly:
